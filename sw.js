@@ -1,5 +1,5 @@
 // Change ce numéro à chaque mise à jour de l'appli pour forcer le rafraîchissement du cache.
-const C = "table-rase-v2";
+const C = "table-rase-v3";
 const A = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
